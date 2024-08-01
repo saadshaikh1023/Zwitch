@@ -11,5 +11,6 @@ export const config = {
     "/api/webhooks(.*)",
     "/api/uploadthing",
     "/:username",
+    "/search",
   ],
 };
