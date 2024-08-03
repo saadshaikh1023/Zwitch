@@ -61,7 +61,10 @@ To get started with Zwitch, follow these steps:
      ```bash
     npm run dev
 
-##Usage
+## Demo image
+![Screenshot (20)](https://github.com/user-attachments/assets/662314fd-de76-4796-a80c-67ee78444560)
+
+## Usage
 1) Sign In/Sign Up: Use Google OAuth to sign in or create a new account.
 2) Dashboard: Access your personal dashboard to manage stream settings and profile.
 3) Search: Use the search bar to find streams and users.
