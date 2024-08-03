@@ -58,8 +58,8 @@ To get started with Zwitch, follow these steps:
    UPLOADTHING_APP_ID=your-uploadthing-app-id
 
 4. **Run the Development Server**
-    ```bash
-   npm run dev
+     ```bash
+    npm run dev
 
 ##Usage
 1) Sign In/Sign Up: Use Google OAuth to sign in or create a new account.
@@ -67,8 +67,8 @@ To get started with Zwitch, follow these steps:
 3) Search: Use the search bar to find streams and users.
 4) Live Chat: Participate in live chats during ongoing streams.
    
-##Contributing
+## Contributing
 We welcome contributions to improve Zwitch. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. For detailed contribution guidelines, please refer to the CONTRIBUTING.md file.
 
-##Contact
+## Contact
 For any questions or inquiries, please reach out to saadshaikh.business@gmail.com.
